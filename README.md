@@ -19,7 +19,7 @@ Cloths Shop Annual Data</a>
 - Created pivot tables according to the questions asked.
 - Merge all pivot tables into one dashboard and apply slicer to make 
 ## **Dashboard**
-![Alt text of the image]()
+![Alt text of the image]()(https://github.com/PrajktaTambe/Data-Analysis-Dashboard/commit/d1be021ac3b91aca8f8b3b341f977a9a32c1b171)
 
 ## **Project Insight**
 
